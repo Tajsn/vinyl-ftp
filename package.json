@@ -39,7 +39,7 @@
   "devDependencies": {
     "@types/vinyl-fs": "^2.4.5",
     "istanbul": "^0.4.5",
-    "mocha": "^3.2.0",
+    "mocha": "^10.2.0",
     "rmdir": "^1.2.0",
     "vinyl-fs": "^2.4.4"
   },
